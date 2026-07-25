@@ -1,6 +1,6 @@
-👋 Hi, I'm [Your Name]!
-🎓 Computer Science Student at Florida International University (FIU)
-🔭 Aspiring Machine Learning Engineer & Low-Level Hardware Enthusiast
+## 👋 Hi, I'm [Your Name]!
+## 🎓 Computer Science Student at Florida International University (FIU)
+## 🔭 Aspiring Machine Learning Engineer & Low-Level Hardware Enthusiast
 
 I am an analytical problem-solver passionate about the intersection of low-level hardware, machine learning, and advanced mathematics. I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, whether that's working as a Linear Algebra tutor at FIU's Center for Academic Success or studying for my AWS AI Practitioner certification.
 
