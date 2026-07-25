@@ -26,4 +26,4 @@ Currently, I'm focusing on designing highly efficient, data-driven systems. Draw
 
 ```text
 Email:    alecborque@gmail.com
-LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)]
+LinkedIn: https://www.linkedin.com/in/alecborque?trk=contact-info
