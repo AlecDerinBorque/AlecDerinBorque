@@ -14,7 +14,7 @@ Currently, I'm focusing on designing highly efficient, data-driven systems. Draw
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `Java`, `C`, `SQL` |
+| **Languages** | `Python`, `Java`, `C`, `SQL`, `HTML`, `css`, `JavaScript` |
 | **Data Science & ML** | `Pandas`, `NumPy`, `scikit-learn`, `PyTorch`,  `sentence_transformers`, `requests`, `pyodbc`|
 | **Databases** | `SQL Server`, `MySQL`, `PostgreSQL` |
 | **Tools** | `Git`, `GitHub`, `Google Colab`, `Jupyter Notebooks` |
