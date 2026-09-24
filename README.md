@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:085041,100:1D9E75&height=180&section=header&text=Alec%20Borque&fontSize=44&fontColor=ffffff&desc=ML%20Engineer%20·%20Edge%20AI%20·%20Agentic%20Systems&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:085041,100:1D9E75&height=180&section=header&text=Alec%20Borque&fontSize=44&fontColor=ffffff&desc=ML%20Engineering%20·%20AI%20Engineering%20·%20Data%20Science&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+for+legal+contracts;CUDA-accelerated+AR+for+cars;Turning+messy+data+into+decisions;Future+PhD%3A+deep+learning+%2B+medical+imaging" alt="Typing SVG" />
