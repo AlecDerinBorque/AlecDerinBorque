@@ -16,8 +16,8 @@
 ```python
 class Alec:
     school     = "Florida International University"
-    degree     = "B.S. Computer Science (Dec 2027)"
-    focus      = ["ML engineering", "edge AI", "LLM systems"]
+    degree     = "B.S. Computer Science, Coursework of Mathematical Sciences Minor (Dec 2027)"
+    focus      = ["ML engineering", "AI Engineering", "Data Science"]
     now        = ["AI Engineer Fellow @ Accenture",
                   "ML Engineer Intern @ CellaMare"]
     long_term  = "PhD: deep learning for medical imaging"
