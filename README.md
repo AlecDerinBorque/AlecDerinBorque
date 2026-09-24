@@ -1,29 +1,61 @@
 # 👋 Hi, I'm Alec!
 
-> **🎓 Junior at Florida International University (FIU), Studying Computer Science and Math**  
-> **🔭 Aspiring Machine Learning Engineer & Low-Level Hardware Enthusiast**
+> 🎓 **Junior @ Florida International University** — B.S. Computer Science (Dec 2027) · Dean's List 6x
+> 🔭 **Machine Learning Engineer** building across data, models, and hardware
 
-I am an analytical problem solver passionate about the intersection of low level hardware, machine learning, and advanced mathematics. I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, whether that's working as a Math and CS tutor at FIU's Center for Academic Success, attending bootcamps, or watching tutorial videos on Youtube. 
+I'm a problem solver who works where **machine learning, low-level hardware, and mathematics** meet. I like taking messy, real-world data and turning it into systems that make decisions: predictive models, retrieval pipelines, and real-time perception on the edge.
 
-Currently, I'm focusing on designing highly efficient, data-driven systems. Drawing on my recent experience building predictive classification models as a Data Science Intern, I’m looking to leverage and grow my skills in an ML-focused role where I can build impactful solutions!
+Long term, I want to build **agentic robots** and pursue a **PhD in deep learning for medical imaging**.
 
 ---
 
+## 💼 What I'm Working On
+
+**🤖 AI Engineer Fellow — Accenture** *(Break Through Tech AI Studio)*
+- Built a cleaning and chunking pipeline for **408 legal contracts**, benchmarking 4 chunking strategies to reach **99.7% clause preservation** across 8,031 chunks and 41 clause categories
+- Trained a TF-IDF + Logistic Regression baseline, fixing data leakage and class imbalance with a structured train/test split
+- Integrating the classifier and a risk-scoring layer into a **RAG app** that lets lawyers query contracts in plain language with cited, grounded answers
+
+**🚗 Machine Learning Engineer Intern — CellaMare Technology**
+- Building a simulated **AR head-up navigation display**, streaming CARLA telemetry into Unity/Unreal for planned **NVIDIA Jetson Nano** deployment
+- Developing a **CUDA-accelerated perspective warping** pipeline to correct windshield distortion, validated against ground-truth vehicle pose under simulated GPS noise
+- Serving real-time pose and route guidance through **FastAPI + WebSockets** to decouple simulation from rendering
+
+## 📈 Previously
+
+**📊 Data Scientist Intern — SelectQuote** *(Summer 2026)*
+- Deployed a **two-stage hurdle model (XGBoost)** on data with 98% class imbalance, reaching **74% PR-AUC**
+- Built a SQL Server + Pandas pipeline over **2.8M+ pharmacy transactions**, engineering geographic features from CDC and Census APIs
+- Segmented customers into **10 risk deciles** with Beta Regression to prioritize collection efforts
+
+**📚 CS & Math Tutor — FIU Center for Academic Success**
+- Tutored **300+ students** in Deep Learning, Calculus I–III, Linear Algebra, Data Structures, Python, and Java OOP
+
+---
 
 ## 🛠 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `Java`, `C`, `C++`, `SQL`, `HTML`, `css`, `JavaScript` |
-| **Data Science & ML** | `Pandas`, `NumPy`, `scikit-learn`, `PyTorch`,  `sentence_transformers`, `requests`, `pyodbc`|
-| **Databases** | `SQL Server`, `MySQL`, `PostgreSQL` |
-| **Tools** | `Git`, `GitHub`, `Google Colab`, `Jupyter Notebooks` |
+| **Languages** | `Python` `C` `C++` `Java` `SQL` `JavaScript` `HTML` `CSS` |
+| **ML & Data** | `PyTorch` `scikit-learn` `XGBoost` `Hugging Face` `sentence-transformers` `Pandas` `NumPy` `SciPy` `Matplotlib` |
+| **LLMs & RAG** | `LangChain` `ChromaDB` `Pydantic` |
+| **Backend & MLOps** | `FastAPI` `Flask` `REST APIs` `WebSockets` `MLflow` `Streamlit` |
+| **GPU, Sim & Graphics** | `CUDA` `CARLA` `Unity` `Unreal Engine` `NVIDIA Jetson` |
+| **Databases** | `SQL Server` `PostgreSQL` `MySQL` |
+| **Tools & Cloud** | `Git` `GitHub` `AWS` `Jupyter` `Google Colab` |
+
+## 📜 Certifications
+
+- IBM — AI Agents & Agentic Workflows
+- AWS Certified Cloud Practitioner
+- Cornell University — Machine Learning Foundations
 
 ---
 
+## 📫 Let's Connect
 
-## 📫 How to Reach Me
+[![Email](https://img.shields.io/badge/Email-alecborque%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alecborque@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alecborque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecborque)
 
-```text
-Email:    alecborque@gmail.com
-LinkedIn: https://www.linkedin.com/in/alecborque?trk=contact-info
+I'm always open to talking about ML engineering, edge AI, and research opportunities.
