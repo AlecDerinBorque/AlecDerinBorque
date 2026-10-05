@@ -17,6 +17,7 @@
 class Alec:
     school     = "Florida International University"
     degree     = "B.S. Computer Science, Coursework of Mathematical Sciences Minor (Dec 2027)"
+    gpa        = 3.77/4.00
     focus      = ["ML engineering", "AI Engineering", "Data Science"]
     now        = ["AI Engineer Fellow @ Accenture",
                   "ML Engineer Intern @ CellaMare"]
